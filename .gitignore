@@ -1,0 +1,5 @@
+.DS_Store
+
+# Backend
+api-rest/node_modules
+
